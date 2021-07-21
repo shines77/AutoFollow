@@ -1,0 +1,8 @@
+## Interface: 20501
+## Title: AutoFollow
+## Author: shines77(guozi)
+## Notes: Automatically following (|cff0055FFv 1.0|r |cff22FF22by shines77|r)
+## Version: 1.0
+## SavedVariables: AutoFollowDB
+## SavedVariablesPerCharacter: AutoFollowDB
+AutoFollow.lua
